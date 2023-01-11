@@ -1,0 +1,18 @@
+/* Write your CSS here */
+.tab-item-text {
+  color: #7b8794;
+  font-size: 18px;
+  border: 0px none;
+  text-decoration: underline;
+}
+
+* {
+  font-family: 'Bree Serif';
+}
+.tab-item {
+  margin-right: 25px;
+}
+
+.textHighlight {
+  color: #2563eb;
+}
